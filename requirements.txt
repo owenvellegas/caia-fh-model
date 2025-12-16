@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+numpy
+scikit-learn
+dask
+pyarrow
